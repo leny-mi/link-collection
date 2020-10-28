@@ -16,11 +16,12 @@
 
 |Description|Link|
 |--|--|
+|Studienbüro|[https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studienbuero/index.de.jsp](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studienbuero/index.de.jsp "https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studienbuero/index.de.jsp")
 |Semestertermine |[https://www.tu-darmstadt.de/studieren/studierende_tu/semestermine/index.de.jsp](https://www.tu-darmstadt.de/studieren/studierende_tu/semestermine/index.de.jsp) |
 |Informationen zum Coronavirus |[https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/corona_vorsorge/index.de.jsp](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/corona_vorsorge/index.de.jsp)|
 |OpenLearnWare| [https://www.openlearnware.de/](https://www.openlearnware.de/)|
 |TUCaN| [https://www.tucan.tu-darmstadt.de/](https://www.tucan.tu-darmstadt.de/)|
 |Informatiker/Richtiges Moodle| [https://moodle.informatik.tu-darmstadt.de/](https://moodle.informatik.tu-darmstadt.de/)|
-|Falsches Moodle| [https://moodle.tu-darmstadt.de/](https://moodle.tu-darmstadt.de/)|
+|TU/Falsches Moodle| [https://moodle.tu-darmstadt.de/](https://moodle.tu-darmstadt.de/)|
 
 
