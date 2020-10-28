@@ -1,4 +1,4 @@
-## Geekhub Links Demo
+## Links Collection
 
 #### Weitere Links
 
