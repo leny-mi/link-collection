@@ -5,6 +5,8 @@
 |Description|Link|
 |--|--|
 |Geekhub - Inoffizieller Informatikerserver| [https://discord.gg/uTQr2Zu](https://discord.gg/uTQr2Zu "https://discord.gg/uTQr2Zu") |
+|Lehramt Informatik Discord| [https://discord.gg/c3kGMSw](https://discord.gg/c3kGMSw "https://discord.gg/c3kGMSw") |
+|FB1 Discord| [https://discord.gg/vYR2E3B](https://discord.gg/vYR2E3B "https://discord.gg/vYR2E3B")|
 |Fabian Damken's Zusammenfassungen| [https://projects.frisp.org/projects/study-public/wiki/Zusammenfassungen](https://projects.frisp.org/projects/study-public/wiki/Zusammenfassungen)|
 |Inferno - Prüfungsplantool | [http://inferno.dekanat.informatik.tu-darmstadt.de/](http://inferno.dekanat.informatik.tu-darmstadt.de/) |
 |D120 Semesterplaner | [https://www.d120.de/semesterplan](https://www.d120.de/semesterplan "https://www.d120.de/semesterplan") |
@@ -23,5 +25,6 @@
 |TUCaN| [https://www.tucan.tu-darmstadt.de/](https://www.tucan.tu-darmstadt.de/)|
 |Informatiker/Richtiges Moodle| [https://moodle.informatik.tu-darmstadt.de/](https://moodle.informatik.tu-darmstadt.de/)|
 |TU/Falsches Moodle| [https://moodle.tu-darmstadt.de/](https://moodle.tu-darmstadt.de/)|
+|Bachelor of Science Informatik| [https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_177792.en.jsp](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_177792.en.jsp)|
 
 
