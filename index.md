@@ -1,3 +1,4 @@
+
 ## Links Collection
 
 #### Weitere Links
@@ -27,4 +28,13 @@
 |TU/Falsches Moodle| [https://moodle.tu-darmstadt.de/](https://moodle.tu-darmstadt.de/)|
 |Bachelor of Science Informatik| [https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_177792.en.jsp](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_177792.en.jsp)|
 
+Gedächtnisprotokolle
+|Modul|Link|
+|--|--|
+|DT WS20/21|https://md.darmstadt.ccc.de/s/udx0flk0e#|
+|SE WS20/21|https://md.darmstadt.ccc.de/s/dF4NrowVI#|
+|AER WS20/21|https://md.darmstadt.ccc.de/s/wpCGND7tO#|
+|CER SS20|https://docs.google.com/document/d/1lKZYd3Mj1j1aeM4lB4NYG2XKs_fGoQ3vYP7j2BqfVnQ/edit?usp=sharing|
+|Infman SS20|https://docs.google.com/document/d/1gkimSu8dgRuw0eHly9ooabbhjhaWWU1JyaEEOtJep5k/edit?usp=sharing|
+|FoLT WS20/21|https://md.darmstadt.ccc.de/s/j_CfpI040#|
 
