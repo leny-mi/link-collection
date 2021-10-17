@@ -12,6 +12,7 @@
 |Fabian Damken's Zusammenfassungen| [https://projects.frisp.org/projects/study-public/wiki/Zusammenfassungen](https://projects.frisp.org/projects/study-public/wiki/Zusammenfassungen)|
 |Inferno - Prüfungsplantool | [http://inferno.dekanat.informatik.tu-darmstadt.de/](http://inferno.dekanat.informatik.tu-darmstadt.de/) |
 |D120 Semesterplaner | [https://www.d120.de/semesterplan](https://www.d120.de/semesterplan "https://www.d120.de/semesterplan") |
+|Aktualisierter Semesterplaner| [https://www.student.informatik.tu-darmstadt.de/~ys53soju/beautiful-tucan/](https://www.student.informatik.tu-darmstadt.de/~ys53soju/beautiful-tucan/ "https://www.student.informatik.tu-darmstadt.de/~ys53soju/beautiful-tucan/")
 |Vorlesungsverzeichnis Viewer | [https://davidgengenbach.de/informatik-vv/sose20/](https://davidgengenbach.de/informatik-vv/sose20/) |
 |Videos für Neulinge|[https://www.d120.de/de/studienneulinge/ophase/videos/](https://www.d120.de/de/studienneulinge/ophase/videos/ "https://www.d120.de/de/studienneulinge/ophase/videos/") |
 
